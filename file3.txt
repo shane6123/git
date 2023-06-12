@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-This is file3 added the content...
-=======
->>>>>>> 647e6fe4eb5bafc091900d33510a05497417c4ef
