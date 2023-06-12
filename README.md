@@ -1,2 +1,1 @@
-# git
-start from here
+git start from here:
